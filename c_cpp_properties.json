@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "C++ Config",
+            "includePath": ["${workspaceFolder}/**"],
+            "defines": [],
+            "compilerPath": "<path-to-g++>",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
